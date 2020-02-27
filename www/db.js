@@ -26,3 +26,5 @@ var d = new Docto("doctor", 45, [p1, p2, p3, p4])
 
 console.log(d)
 
+
+console.log(d)
