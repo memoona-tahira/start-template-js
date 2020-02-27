@@ -24,7 +24,7 @@ var p4 = new Patiant("d", 1, 23)
 
 var d = new Docto("Shaista", 45, [p1, p2, p3, p4])
 
-console.log(d)
+
 
 
 console.log(d)
